@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Welcome to my website. We are going to talk about my cat Oliver.\n\n\nOliver deserves fans because he is a good boy!\n\n\n\n\n\n\n\nFood\n\n\nToys\n\n\n\n\n\n\nHe learned how to open the door to my apartment and run into the hallway\nHe gets the zoomies at 4am\nHe opens all my cabinets\n\n\n\n\n\n\n\nHappiness\nCuteness\nCraziness\n\n\n\n\n10\n10\n10\n\n\n\n\n\n\nThe formula for Oliver’s craziness is \\(ax^2 + bx + c = 0\\)\nThe integral of Oliver is\n\n\n\n\\[\n\\int_{a}^{b} f(x) \\, dx\n\\]\n\n\n\n\n“Time spent with cats is never wasted.” - Sigmund Freud\n\n\n\n\n\n\nHere is a random video of a sunset.\n\n\n\n\n\nOliver looks like this:\n\n\n\n\n\n\n\n\n\n\nflowchart TD\n    A[Start] --&gt; B[Do you have enough time?]\n    B --&gt;|Yes| C[Adopt a cat]\n    B --&gt;|No| D[Consider other pets]\n    C --&gt; E[Enjoy your new cat!]\n\n\n\n\n\n\n\n\n\n\nHi, here is a footnote1.\n\n\n\nResearch (Kitchener 1991)"
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Oliver deserves fans because he is a good boy!"
+  },
+  {
+    "objectID": "index.html#included-features",
+    "href": "index.html#included-features",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Food\n\n\nToys\n\n\n\n\n\n\nHe learned how to open the door to my apartment and run into the hallway\nHe gets the zoomies at 4am\nHe opens all my cabinets\n\n\n\n\n\n\n\nHappiness\nCuteness\nCraziness\n\n\n\n\n10\n10\n10\n\n\n\n\n\n\nThe formula for Oliver’s craziness is \\(ax^2 + bx + c = 0\\)\nThe integral of Oliver is\n\n\n\n\\[\n\\int_{a}^{b} f(x) \\, dx\n\\]\n\n\n\n\n“Time spent with cats is never wasted.” - Sigmund Freud\n\n\n\n\n\n\nHere is a random video of a sunset.\n\n\n\n\n\nOliver looks like this:\n\n\n\n\n\n\n\n\n\n\nflowchart TD\n    A[Start] --&gt; B[Do you have enough time?]\n    B --&gt;|Yes| C[Adopt a cat]\n    B --&gt;|No| D[Consider other pets]\n    C --&gt; E[Enjoy your new cat!]\n\n\n\n\n\n\n\n\n\n\nHi, here is a footnote1.\n\n\n\nResearch (Kitchener 1991)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Simple Quarto Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is my footnote↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Presentation",
+    "section": "Slide 1",
+    "text": "Slide 1"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Presentation",
+    "section": "Slide 2",
+    "text": "Slide 2"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Presentation",
+    "section": "Slide 3",
+    "text": "Slide 3\nResearch (Kitchener 1991)\n\n\n\n\n\n\n\n\nKitchener, Andrew. 1991. The Natural History of the Wild Cats. Comstock Pub. Associates New York, USA."
+  }
+]

@@ -1,0 +1,93 @@
+---
+title: "Simple Quarto Website"
+---
+
+# Introduction
+
+Welcome to my website. We are going to talk about my cat Oliver.
+
+## Purpose
+
+Oliver deserves fans because he is a good boy!
+
+## Included Features
+
+### Two Columns
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    Food
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    Toys
+  </div>
+</div>
+
+### Bulleted List
+
+- He learned how to open the door to my apartment and run into the hallway
+- He gets the zoomies at 4am
+- He opens all my cabinets 
+
+### Table
+
+| Happiness | Cuteness | Craziness |
+|----------|----------|----------|
+| 10       | 10       | 10       |
+
+### In-line Equation
+
+The formula for Oliver's craziness is $ax^2 + bx + c = 0$
+
+The integral of Oliver is
+
+### Non in-line Equation
+
+$$
+\int_{a}^{b} f(x) \, dx
+$$
+
+### Quote
+
+> "Time spent with cats is never wasted." - Sigmund Freud
+
+
+<img src="images/me.png" alt="Me" width="200" height="200">
+ 
+<img src="images/oliver.png" alt="Oliver" width="200" height="200">
+
+### Embedded Video
+
+Here is a random video of a sunset.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6WFT1HlzS2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Embedded Images
+
+Oliver looks like this:
+
+<img src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/22/2018/10/Black-Cats-Are-the-Best-Cats-banner.png" alt="Description of Image" width="400" height="200">
+
+<img src="https://www.worldanimalprotection.org.uk/siteassets/article/aylin-cobanoglu-jfb25kqsf-m-unsplash.jpg?width=1536&fit=cover" alt="Description of Image" width="400" height="200">
+
+### Mermaid Diagram
+
+```{mermaid}
+
+flowchart TD
+    A[Start] --> B[Do you have enough time?]
+    B -->|Yes| C[Adopt a cat]
+    B -->|No| D[Consider other pets]
+    C --> E[Enjoy your new cat!]
+
+```
+
+### Footnote
+
+Hi, here is a footnote[^1].
+
+[^1]: This is my footnote
+
+### Bibliography
+
+Research [@kitchener1991natural]
